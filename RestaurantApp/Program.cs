@@ -11,12 +11,9 @@ namespace RestaurantApp
         static void Main(string[] args)
         {
 
-            var store = new List<string>();
-
-            for (int i = 0; i < 5; i++)
-            {
-                Console.WriteLine("แสดง");
-            }
+            
+                Console.WriteLine("สวัสดีชาวโลก");
+            
 
         }
     }
