@@ -13,6 +13,8 @@ namespace RestaurantApp
 
             
                 Console.WriteLine("สวัสดีชาวโลก");
+
+                Console.WriteLine("sadasdasd");
             
 
         }
